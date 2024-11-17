@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Gaber</h1>
 <h3 align="center">A Passionate Backend Engineer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedgaber77&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedgaber77" /> </p>
-
-- 🔭 I’m currently working on [TravelSync](https://github.com/Haddad308/TravelSync)
-
 - 🌱 I’m currently learning **Go, NestJs, API Development, Testing, CI/CD**
 
 - 👯 I’m looking to collaborate on **Some cool Go projects**
