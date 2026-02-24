@@ -111,7 +111,6 @@ Backend Engineer with **1+ years** of experience building production-ready platf
 [![Email](https://img.shields.io/badge/Email-gaberx313%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaberx313@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AhmedGaberX-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AhmedGaberX)
 [![GitHub](https://img.shields.io/badge/GitHub-AhmedGaber77-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedGaber77)
-[![Resume](https://img.shields.io/badge/Resume-View%20My%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1JcnSEYHrnGrugkUnAIVnwWBh-RqyLdg6/view?usp=sharing)
 
 </div>
 
